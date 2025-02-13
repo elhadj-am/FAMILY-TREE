@@ -1,6 +1,6 @@
 Specification Example:
 
-Name: Karim.
+Name: Jerome.
 Age: 42 years old.
 Character: Rigorous, likes to tell jokes, passionate about history.
 Job: Geography teacher.
